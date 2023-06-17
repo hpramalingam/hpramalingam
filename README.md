@@ -2,7 +2,7 @@
 - 🔭 I’m currently practicing implementing UI/UX interfaces with react and react native
 - 🤔 Interested in ML/AI, computer graphics and animation
 - 📫 You can reach me at hari.ramalingam2002@gmail.com
-- ⚡ I hope you found what you are looking for!
+- ⚡ I hope you find what you're looking for!
 
 ### Languages and Tools:
 <p>
