@@ -1,7 +1,8 @@
 # Hi there, this is Hari👋
 - 🔭 I’m currently practicing implementing UI/UX interfaces with react and react native
 - 🤔 Interested in ML/AI, computer graphics and animation
-- 📫 How to reach me: hari.ramalingam2002@gmail.com
+- 📫 You can reach me at hari.ramalingam2002@gmail.com
+- ⚡ I hope you found what you are looking for!
 
 ### Languages and Tools:
 <p>
